@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: right;
+}
+
+.theme-toggle {
+    margin: 20px;
+}
+
+button {
+    font-size: 10px;
+    padding: 10px 10px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
+#dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+#light-mode {
+    background-color: #fff;
+    color: #333;
+}
+
